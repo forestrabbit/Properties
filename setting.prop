@@ -1,2 +1,4 @@
 class = com.fr.Student
+name = forestrabbit
+age = 20
 class = com.fr.Hello
