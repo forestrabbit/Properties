@@ -89,6 +89,7 @@ public class Properties {
                 map.put(key.toString(), list);
             }
         }
+        reader.close();
     }
 
     @Override
